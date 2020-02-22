@@ -37,7 +37,8 @@ sudo ln -s libcrypto.so.1.0.0 /usr/lib/i386-linux-gnu/libcrypto.so.4
 ```
 
 
-cal instal·lar un arxiu de llicències amb un codi de llicència que es pot obtenir amb el programa `CiscoIOUKeygen3f.py`
+cal instal·lar un arxiu de llicències amb un codi de llicència que es pot obtenir amb el programa `CiscoIOUKeygen3f.py` Aquest programa es pot descarregar des de l'adreça: http://www.ipvanquish.com/download/CiscoIOUKeygen3f.py
+
 
 ```
 python3 CiscoIOUKeygen3f.py
@@ -72,7 +73,7 @@ apt install docker-ce
 
 Cal afegir el vostre usuari a aquests grups i després tancar la sessió o reiniciar l'equip.
 ```
-usermod -a -G ubridge,libvirt,kvm,wireshark,docker alumne
+usermod -a -G ubridge,libvirt,kvm,wireshark,docker ubuntu
 ```
 
 

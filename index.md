@@ -10,27 +10,27 @@ Tot seguit hi ha els enllaços als materials i documents que farem servir. Els l
 En aquest enllaç trobareu les instruccions per instal·lar GNS3 en un sistema Ubuntu 18.04.
 
 
-[![button](https://i.imgur.com/oU4UHI3.png)](https://github.com/jaumeramos/GNS3/install.md)
+[![button](https://i.imgur.com/oU4UHI3.png)](https://github.com/jaumeramos/GNS3/install)
 
 
 En aquest enllaç trobareu els dos exemples de simulació que farem.
 
 
-[![button](https://imgur.com/YdA4bwJ.png)](https://github.com/jaumeramos/GNS3/taller.md)
+[![button](https://imgur.com/YdA4bwJ.png)](https://github.com/jaumeramos/GNS3/taller)
 
 
 
 
 En aquest enllaç us podeu descarregar els fitxers per instal·lar diferents equips de xarxa que podrem fer servir amb GNS3. 
 
-[![button](https://i.imgur.com/Gmf9epX.png)]()
+[![button](https://i.imgur.com/Gmf9epX.png)](https://drive.google.com/file/d/1sF8ZJ_iZd-OHHMf9p5hE1Xf4HIJsyUZe/view?usp=sharing)
 
 
 
 En aquest enllaç us podeu descarregar una OVA per VirtualBox amb una distribució Ubuntu Desktop 18.0.3 actualitzada i amb les Guest Additions instal·lades. Per fer servir aquesta VM haurieu d'actualitzar la vostra versió de VirtualBox a la 6.1.4. Les versions anteriors donaven errors al compilar Guest Adddirions en els darrers kernels de Ubuntu.
 
 
-[![button](https://i.imgur.com/iTgs4um.png)]()
+[![button](https://i.imgur.com/iTgs4um.png)](https://drive.google.com/file/d/1GQ9l62Y3hOC1Z9e3Gs_GcO0i76wJhUls/view?usp=sharing)
 
 
 En aquest enllaç uns podeu descarregar la OVA anterior, amb tots els paquets necessaris de GNS3, però sense cap equip de xarxa instal·lat. La podeu fer servir com a base per afegir els equips que us facin falta.
