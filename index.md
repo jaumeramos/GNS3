@@ -10,13 +10,13 @@ Tot seguit hi ha els enllaços als materials i documents que farem servir. Els l
 En aquest enllaç trobareu les instruccions per instal·lar GNS3 en un sistema Ubuntu 18.04.
 
 
-[![button](https://i.imgur.com/oU4UHI3.png)](https://github.com/jaumeramos/GNS3/install)
+[![button](https://i.imgur.com/oU4UHI3.png)]https://jaumeramos.github.io/GNS3/install)
 
 
 En aquest enllaç trobareu els dos exemples de simulació que farem.
 
 
-[![button](https://imgur.com/YdA4bwJ.png)](https://github.com/jaumeramos/GNS3/taller)
+[![button](https://imgur.com/YdA4bwJ.png)](https://jaumeramos.github.io/GNS3/taller)
 
 
 
