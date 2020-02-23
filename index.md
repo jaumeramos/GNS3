@@ -27,7 +27,7 @@ En aquest enllaç us podeu descarregar els fitxers per instal·lar diferents equ
 
 
 
-En aquest enllaç us podeu descarregar una OVA per VirtualBox amb una distribució Ubuntu Desktop 18.0.3 actualitzada i amb les Guest Additions instal·lades. Per fer servir aquesta VM hauriehttps://i.imgur.com/Gmf9epX.pngu d'actualitzar la vostra versió de VirtualBox a la 6.1.4. Les versions anteriors donaven errors al compilar Guest Adddirions en els darrers kernels de Ubuntu.
+En aquest enllaç us podeu descarregar una OVA per VirtualBox amb una distribució Ubuntu Desktop 18.0.3 actualitzada i amb les Guest Additions instal·lades. Per fer servir aquesta VM haurieu d'actualitzar la vostra versió de VirtualBox a la 6.1.4. Les versions anteriors donaven errors al compilar Guest Adddirions en els darrers kernels de Ubuntu.
 
 
 [![button](https://i.imgur.com/iTgs4um.png)](https://drive.google.com/open?id=1GdkneEnik3v0518gcSwDJMsZCXFFAE0g)
@@ -42,3 +42,6 @@ En aquest enllaç us podeu descarregar una VM amb GNS3 instal·lat i els diferen
 
 
 [![button](https://i.imgur.com/lpAl46z.png)](https://drive.google.com/open?id=1Kgx761vNyRDlTOULo4lXvPNBhxUoI4gF)
+
+
+Espero que us agradi!!!
