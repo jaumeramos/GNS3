@@ -81,50 +81,65 @@ usermod -a -G ubridge,libvirt,kvm,wireshark,docker ubuntu
 
 Només utilitzarem templates disponibles al lloc oficial de GNS3, aquestes estàn verificades i són les que ofereixen major compatibilitat. si necessiteu imatges específiques haureu de fer les vostres cerques.
 
-### Dynamips
+### Cisco Dynamips
 
-Cisco 1700: c1700-adventerprisek9-mz.124-25d.image
+* Router Cisco 1700: [gns3-docs](https://docs.gns3.com/appliances/cisco-1700.html) 
+    * c1700-adventerprisek9-mz.124-25d.image
 
-Cisco 2691: c2691-adventerprisek9-mz.124-15.T14.image
+* Router Cisco 3620: [gns3-docs](https://docs.gns3.com/appliances/cisco-3620.html) 
+    * c3620-a3jk8s-mz.122-26c.image
 
-Cisco 3620: c3620-a3jk8s-mz.122-26c.image
+* Router Cisco 3640: [gns3-docs](https://docs.gns3.com/appliances/cisco-3640.html) 
+    * c3640-a3js-mz.124-25d.image
 
-Cisco 3640: c3640-a3js-mz.124-25d.image
+* Router Cisco 3660: [gns3-docs](https://docs.gns3.com/appliances/cisco-3660.html) 
+    * c3660-a3jk9s-mz.124-15.T14.image
 
-Cisco 3660: c3660-a3jk9s-mz.124-15.T14.image
+* Router Cisco 3725: [gns3-docs](https://docs.gns3.com/appliances/cisco-3725.html) 
+    * c3725-adventerprisek9-mz.124-15.T14.image
 
-Cisco 3725: c3725-adventerprisek9-mz.124-15.T14.image
+* Router Cisco 3745: [gns3-docs](https://docs.gns3.com/appliances/cisco-3745.html) 
+    * c3745-adventerprisek9-mz.124-25d.image
 
-Cisco 3745: c3745-adventerprisek9-mz.124-25d.image
-
-Cisco 7200: c7200-adventerprisek9-mz.124-24.T5.image
-
-
-### VIRL
-
-Cisco IOSv 15.6: vios-adventerprisek9-m.vmdk.SPA.156-2.T
-
-Cisco IOSvL2 15.2: vios_l2-adventerprisek9-m.vmdk.SSA.152-4.0.55.E
-
-Cisco CSR1000v: csr1000v-universalk9.16.07.01-serial.qcow2
-
-Cisco IOS xrv: iosxrv-k9-demo-6.0.1.qcow2
-
-Cisco NX-OSv: titanium-final.7.3.0.D1.1.qcow2
+* Router Cisco 7200: [gns3-docs](https://docs.gns3.com/appliances/cisco-7200.html) 
+    * c7200-adventerprisek9-mz.124-24.T5.image
 
 
+### Cisco VIRL
+
+* Switch Cisco IOSvL2: [gns3-doc](https://docs.gns3.com/appliances/cisco-iosvl2.html) 
+    * IOSvL2 15.2: vios_l2-adventerprisek9-m.vmdk.SSA.152-4.0.55.E
+
+* Switch Cisco NX-OSv: [gns3-doc](https://docs.gns3.com/appliances/cisco-nxosv.html) 
+    * NX-OSv: titanium-final.7.3.0.D1.1.qcow2
+
+
+* Router Cisco IOSv: [gns3-doc](https://docs.gns3.com/appliances/cisco-iosv.html) 
+    * IOSv 15.6: vios-adventerprisek9-m.vmdk.SPA.156-2.T
+
+* Router Cisco CSR1000v: [gns3-doc](https://docs.gns3.com/appliances/cisco-csr1000v.html) 
+    * csr1000v-universalk9.16.07.01-serial.qcow2
+
+* Router Cisco IOS XRv: [gns3-doc](https://docs.gns3.com/appliances/cisco-iosxrv.html) 
+    * iosxrv-k9-demo-6.0.1.qcow2
+
+    
 ### Mikrotik
 
-MikroTik Cloud Hosted Router: chr-6.45.6
+* Router Mikrotik CHR: [gns3-doc](https://docs.gns3.com/appliances/mikrotik-chr.html) 
+    * chr-6.45.6
 
 
 
 ### pfSense
 
-pfSense-CE-2.4.4-RELEASE-p3-amd64
+* Firewall pfSense: [gns3-doc](https://docs.gns3.com/appliances/pfsense.html) 
+    * pfSense-CE-2.4.4-RELEASE-p3-amd64
 
 
 ### Guests
 
-ipterm
+* Guest: ipterm [gns3-doc](https://docs.gns3.com/appliances/ipterm.html) 
+
+* Guest: Ubuntu Docker Guest [gns3-doc](https://docs.gns3.com/appliances/ubuntu-docker.html) 
 

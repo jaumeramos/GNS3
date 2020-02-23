@@ -23,22 +23,22 @@ En aquest enllaç trobareu els dos exemples de simulació que farem.
 
 En aquest enllaç us podeu descarregar els fitxers per instal·lar diferents equips de xarxa que podrem fer servir amb GNS3. 
 
-[![button](https://i.imgur.com/Gmf9epX.png)](https://drive.google.com/file/d/1sF8ZJ_iZd-OHHMf9p5hE1Xf4HIJsyUZe/view?usp=sharing)
+[![button](https://i.imgur.com/Gmf9epX.png)](https://drive.google.com/open?id=1sF8ZJ_iZd-OHHMf9p5hE1Xf4HIJsyUZe)
 
 
 
-En aquest enllaç us podeu descarregar una OVA per VirtualBox amb una distribució Ubuntu Desktop 18.0.3 actualitzada i amb les Guest Additions instal·lades. Per fer servir aquesta VM haurieu d'actualitzar la vostra versió de VirtualBox a la 6.1.4. Les versions anteriors donaven errors al compilar Guest Adddirions en els darrers kernels de Ubuntu.
+En aquest enllaç us podeu descarregar una OVA per VirtualBox amb una distribució Ubuntu Desktop 18.0.3 actualitzada i amb les Guest Additions instal·lades. Per fer servir aquesta VM hauriehttps://i.imgur.com/Gmf9epX.pngu d'actualitzar la vostra versió de VirtualBox a la 6.1.4. Les versions anteriors donaven errors al compilar Guest Adddirions en els darrers kernels de Ubuntu.
 
 
-[![button](https://i.imgur.com/iTgs4um.png)](https://drive.google.com/file/d/1GQ9l62Y3hOC1Z9e3Gs_GcO0i76wJhUls/view?usp=sharing)
+[![button](https://i.imgur.com/iTgs4um.png)](https://drive.google.com/open?id=1GdkneEnik3v0518gcSwDJMsZCXFFAE0g)
 
 
 En aquest enllaç uns podeu descarregar la OVA anterior, amb tots els paquets necessaris de GNS3, però sense cap equip de xarxa instal·lat. La podeu fer servir com a base per afegir els equips que us facin falta.
 
-[![button](https://i.imgur.com/qrnOK5q.png)]()
+[![button](https://i.imgur.com/qrnOK5q.png)](https://drive.google.com/open?id=1iKWE4-J-pSFKnOA0pLnEy3SUJxUfUyfL)
 
 
 En aquest enllaç us podeu descarregar una VM amb GNS3 instal·lat i els diferents equips de xarxa ja configurats. La podeu fer servir per començar a fer proves.
 
 
-[![button](https://i.imgur.com/lpAl46z.png)]()
+[![button](https://i.imgur.com/lpAl46z.png)](https://drive.google.com/open?id=1Kgx761vNyRDlTOULo4lXvPNBhxUoI4gF)
