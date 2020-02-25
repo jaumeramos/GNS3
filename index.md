@@ -4,7 +4,7 @@
 
 En aquest taller aprendrem a fer servir l'entorn GNS3 que ens permet fer simulacions de xarxes amb equips de diferents fabricants i també utilitzar dispositius de xarxa reals junt amb d'altres virtuals.
 
-Tot seguit hi ha els enllaços als materials i documents que farem servir. Els link només són valids per usuaris de iesebre.com.
+Tot seguit hi ha els enllaços als materials i documents que farem servir. **Els link només són valids per usuaris de iesebre.com.**
 
 
 En aquest enllaç trobareu les instruccions per instal·lar GNS3 en un sistema Ubuntu 18.04.
@@ -42,6 +42,11 @@ En aquest enllaç us podeu descarregar una VM amb GNS3 instal·lat i els diferen
 
 
 [![button](https://i.imgur.com/lpAl46z.png)](https://drive.google.com/open?id=1Kgx761vNyRDlTOULo4lXvPNBhxUoI4gF)
+
+
+La pàgina oficial de GNS3 es troba a: [https://www.gns3.com/](https://www.gns3.com/) 
+
+Podeu descarregar la VM des de: [https://www.gns3.com/software/download-vm](https://www.gns3.com/software/download-vm) 
 
 
 Espero que us agradi!!!

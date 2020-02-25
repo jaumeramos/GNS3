@@ -109,6 +109,7 @@ Podem veure les adreces "prestades" amb:
 
 ```
  show ip dhcp binding 
+ show ip dhcp pool
 
 ``` 
 
