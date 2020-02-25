@@ -11,3 +11,7 @@ També aprendrem com afegir dispositus de xarxa a GNS3 per tal de poder fer simu
 Utilitzarem una màquina Virtual per GNS3 i veurem els avantatges que ens pot proporcionar.
 
 Per acabar farem un parell d'exemples amb GNS3, farem una xarxa amb equips Cisco i Mikrotik, configurant VLANS al switch Cisco i l'enrutament i l'accés a Internet al router Mikrotik, i farem un altre exemple configurant un router Cisco com a servidor DHCP que permeti accedir a Internet fent NAT.
+
+Teniu una mínima documentació a [github.io](https://jaumeramos.github.io/GNS3/)
+
+

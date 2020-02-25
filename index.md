@@ -4,6 +4,18 @@
 
 En aquest taller aprendrem a fer servir l'entorn GNS3 que ens permet fer simulacions de xarxes amb equips de diferents fabricants i també utilitzar dispositius de xarxa reals junt amb d'altres virtuals.
 
+
+## Abans de començar
+
+* Connectar-se al compte Google del centre (iesebre.com)
+* Descarregar els fitxers necessaris.  
+    * Descarregar la OVA [OVA Ubuntu Desktop 18.04.4](https://drive.google.com/open?id=1GdkneEnik3v0518gcSwDJMsZCXFFAE0g)  
+    * Descarregar la OVA [GNS3](https://www.gns3.com/software/download-vm) 
+    * Descarregar els fitxers amb les [Network Appliances](https://drive.google.com/open?id=1sF8ZJ_iZd-OHHMf9p5hE1Xf4HIJsyUZe) Network Appliances per GNS3
+    * Actualitzar VirtualBox a la darrera versió. Els exemples han estat provats amb Virtualbox 6.1.4.
+    
+
+
 Tot seguit hi ha els enllaços als materials i documents que farem servir. **Els link només són valids per usuaris de iesebre.com.**
 
 

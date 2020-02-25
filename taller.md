@@ -1,5 +1,15 @@
 # Taller GNS3
 
+
+## Instal·lar el suport per virtualització en Una VM Ubuntu 18.04
+
+
+## Utilitzar GNS3 amb un servidor Remot (VM)
+
+
+## Utilitzar GNS3 amb la VM GNS3
+
+
 ## Enrutar VLANs amb switch Cisco i router Mikrotik
 
 Es tracta de fer una configuració mixta amb switch Cisco i un router Mikrotik CHR.
